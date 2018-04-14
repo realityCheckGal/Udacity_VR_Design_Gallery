@@ -1,6 +1,6 @@
 ## Udacity VR Developer Gallery Design #5
 The Gallery project is the final project for the second semester and is intended as a summation of the research completed on the VR Industry as well as further hightlighing the design process. A write-up describing the project and it's process can be found at: 
-https://medium.com/@realityCheckGal/puzzler-udacity-vr-developer-nano-degree-b71bdc40ce9
+https://medium.com/@realityCheckGal/gallery-udacity-vr-developer-nano-degree-designing-for-vr-1c3e8bc649e3
 
 This project forshadows how VR could be used for world travel.  Simply using exisitng 360deg photography the viewer can select desitnations from a workd map to travel to.  Ultimately, entire experiences could be created for each location.  Destinations curently included in this experience are:
   Spain
