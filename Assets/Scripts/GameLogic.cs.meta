@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 47912265b2b22ed40a80295adedeaab9
+timeCreated: 1523612158
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - travel_map: {fileID: 2100000, guid: 00e2dc66192fd414c93a700e77d83d67, type: 2}
+  - travel_italy: {instanceID: 0}
+  - travel_spain: {instanceID: 0}
+  - travel_sanjuan: {instanceID: 0}
+  - travel_hawaii: {instanceID: 0}
+  - travel_australia: {instanceID: 0}
+  - box: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
