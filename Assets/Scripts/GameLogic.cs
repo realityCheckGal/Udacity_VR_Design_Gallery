@@ -18,19 +18,15 @@ public class GameLogic : MonoBehaviour {
         // Message using rich text.
     	//Debug.Log("<color=red>Fatal error:</color> AssetBundle not found");
     	// Message with a link to an object.
-        Debug.Log ("Hello");
+
 
 		// Turn off the rendering of the geometry of the countries.
 		destinations.SetActive(false);
 
-		// Get the GVR audio source component on this object and play the audio.
-		//this.GetComponent<GvrAudioSource>().Play();
-
 		// Swith skybox materials to transport user to destination
 		RenderSettings.skybox = country;
-          
 
-    	//Destroy(this.box);
+		//Destroy(this.box);
     	//Instantiate(box, transform.position, Quaternion.Euler(-45f, 0f, 0f));
 
     }
